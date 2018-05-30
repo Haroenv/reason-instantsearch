@@ -1,2 +1,1 @@
-
 ReactDOMRe.renderToElementWithId(<Search />, "main");
